@@ -13,8 +13,7 @@ Or paste this link in A1111 "Extensions" tab, then hit "install from url".
 For windows, you must install ffmpeg separately: https://www.ffmpeg.org/download.html#build-windows
 Don't forget to add ffmpeg \bin folder to your "Path" in Windows variables.
 
-Obs.: if you use --share or --listen options in A1111 launch command line, don't forget to add --enable-insecure-extension-access, or it could not work.
-https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Extensions/f0258ac80df3176dbf9e900c5ad9d638f90b1923
+Obs.: if you use --share or --listen options in A1111 launch command line, don't forget to add --enable-insecure-extension-access, or [it could not work](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Extensions/f0258ac80df3176dbf9e900c5ad9d638f90b1923).
 
 
 ## Motivation
