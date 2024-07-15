@@ -30,7 +30,7 @@ So, I created a very rough extension to help in my current workflow process to c
 
 
 ## Disadvantages
-- It was inside a Google Colab environment. For example, you can use [SimpleSD](https://civitai.com/articles/2674/simplesd-stable-diffusion-colab-notebook) notebook. For windows, you must install [ffmpeg for Windows](https://www.ffmpeg.org/download.html#build-windows) separately.
+- It was tested inside a Google Colab environment. For example, you can use [SimpleSD](https://civitai.com/articles/2674/simplesd-stable-diffusion-colab-notebook) notebook. For windows, you must install [ffmpeg for Windows](https://www.ffmpeg.org/download.html#build-windows) separately.
 - It's not possible to use different prompts to a specific range of frames. In this case, use mov2mov or any ComfyUI workflow that already implements this feature. 
   You can also divide your video in small semantic pieces, run img2img with a different prompt for each of them, then put everything together in any video software to combine them.
 
