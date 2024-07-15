@@ -1,5 +1,5 @@
 ## Introduction
-v2v Helper is an [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) extension to help to create AI videos, just a wrapper to [ffmpeg](https://github.com/XniceCraft/ffmpeg-colab.git) within a Colab environment.
+v2v Helper is an [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) extension that helps to create AI videos. It's just a wrapper to [ffmpeg](https://github.com/XniceCraft/ffmpeg-colab.git) within a Colab environment.
 It must be used paired with img2img batch tab.
 
 
