@@ -8,7 +8,7 @@ Inside A1111 extensions/ folder, run this command:
 ```
 git clone https://github.com/scuti0/sd-webui-v2v-helper
 ```
-Or paste this link in A1111 "Extensions" tab, then hit "install from url".
+Or paste this link in: A1111 "Extensions" tab, then in "install from url" tab, paste inside "URL for extension's git repository" field. Then, hit "Install".
 
 For windows, you must install ffmpeg separately: https://www.ffmpeg.org/download.html#build-windows
 
