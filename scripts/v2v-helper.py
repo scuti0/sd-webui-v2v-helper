@@ -344,6 +344,9 @@ def on_ui_tabs():
                 gr.Button("btn4", elem_id="mode_img2img");
                 gr.Button("btn5", elem_id="mode_img2img");
                 gr.Button("btn6", elem_id="mode_img2img");
+            with gr.Row():
+                gr.Button("btn1", elem_id="img2img_batch_source");
+                gr.Button("btn2", elem_id="img2img_batch_source");            
 
         # add events
 
@@ -373,6 +376,10 @@ def on_ui_tabs():
                     if (modeButtons.length > 5) {
                         modeButtons[5].click();
                     }
+                    var batchButtons = document.querySelectorAll('#img2img_batch_source button');
+                    if (batchButtons.length > 1) {
+                        batchButtons[1].click();
+                    }                    
 
                     var inputTextarea = document.querySelector('#img2img_batch_input_dir textarea');
                     var outputTextarea = document.querySelector('#img2img_batch_output_dir textarea');
