@@ -37,7 +37,7 @@ So, I created a very rough extension to help in my current workflow process to c
 
 ## Workflow / How to use
 1. On v2v helper tab, upload your video and hit "Upload and Extract Frames" button;
-2. After process, copy the input and output directories to img2img batch tab: just hit "Send to img2img" or you can use the small copy button in the upper right corner of textboxes;
+2. After process, copy the input and output directories to img2img batch / "from directory" tab: just hit "Send to img2img" or you can use the small copy button in the upper right corner of textboxes;
 3. Configure all your prompts, controlnets, adetailer or upscaling in img2img tab;
 4. After img2img finishes processing, go back to v2v helper tab, select your desired fps, and then hit "Create Video";
 5. Wait processing, then you can download your video!
