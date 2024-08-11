@@ -43,3 +43,5 @@ So, I created a very rough extension to help in my current workflow process to c
 5. Wait processing, then you can download your video!
 6. If you want to download frames to backup or process in another program, you can download a .zip file with the button "Download frames", as an option after clicking "Clear all frames and data";
 7. If you want to improve video quality, I recommend [TensorPix](https://app.tensorpix.ai/) site.
+
+Detailed article [here](https://civitai.com/articles/6203/v2v-helper-extension-to-create-videos-inside-automatic1111).
